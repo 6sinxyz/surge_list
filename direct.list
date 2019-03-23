@@ -1,3 +1,4 @@
+USER-AGENT,MicroMessenger*
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,12306.com
 DOMAIN-SUFFIX,163.com
@@ -15,6 +16,7 @@ DOMAIN-SUFFIX,ccb.com
 DOMAIN-SUFFIX,dianping.com
 DOMAIN-SUFFIX,didistatic.com
 DOMAIN-SUFFIX,diditaxi.com
+DOMAIN,docs.qq.com
 DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,douyu.com
 DOMAIN-SUFFIX,douyucdn.com
@@ -33,6 +35,7 @@ DOMAIN-SUFFIX,mubu.com
 DOMAIN-SUFFIX,nssd.org
 DOMAIN-SUFFIX,qdaily.com
 DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,sina.com
 DOMAIN-SUFFIX,souhu.com
 DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,tabao.com
@@ -41,8 +44,9 @@ DOMAIN-SUFFIX,tmall.com
 DOMAIN,v.qq.com
 DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,weibo.com
-DOMAIN,weixin.qq.com
+DOMAIN-SUFFIX,weixin.qq.com
 DOMAIN-SUFFIX,xiami.com
+DOMAIN-SUFFIX,y.qq.com
 DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhihumg.com
