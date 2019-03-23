@@ -19,13 +19,18 @@ DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,hockeyapp.net
+DOMAIN-SUFFIX,ibooks.info
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,ifixit.com
 DOMAIN-SUFFIX,imgur.com
+DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,macrumors.com
 DOMAIN-SUFFIX,matters.news
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,netagear.com
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net
@@ -53,6 +58,7 @@ DOMAIN-SUFFIX,squarespace.com
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,techcrunch.com
 DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,telegram.com
 DOMAIN-SUFFIX,theinitium.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,vox.com
