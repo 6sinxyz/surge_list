@@ -29,10 +29,12 @@ DOMAIN-SUFFIX,meituan.com
 DOMAIN-SUFFIX,mgtv.com
 USER-AGENT,MicroMessenger*
 DOMAIN-SUFFIX,mobike.com
+DOMAIN-SUFFIX,moke.com
 DOMAIN-SUFFIX,mubu.com
 DOMAIN-SUFFIX,nssd.org
 DOMAIN-SUFFIX,qdaily.com
 DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,shimo.im
 DOMAIN-SUFFIX,qqurl.com
 DOMAIN-SUFFIX,sina.com
 DOMAIN-SUFFIX,souhu.com
