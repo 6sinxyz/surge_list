@@ -12,7 +12,6 @@ DOMAIN-SUFFIX,caiyunapp.com
 DOMAIN-SUFFIX,ccb.com
 DOMAIN-SUFFIX,cl.ly
 DOMAIN-SUFFIX,cyhsu.xyz
-DOMAIN-SUFFIX,dianping.com
 DOMAIN-SUFFIX,didistatic.com
 DOMAIN-SUFFIX,diditaxi.com
 DOMAIN-SUFFIX,douban.com
@@ -25,6 +24,7 @@ DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,itslaw.com
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,juexiaotime.com
+USER-AGENT,MApi*
 DOMAIN-SUFFIX,meituan.com
 DOMAIN-SUFFIX,mgtv.com
 DOMAIN-SUFFIX,mi.com
