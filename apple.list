@@ -9,7 +9,6 @@ DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,cdn-apple.com
 USER-AGENT,com.apple.appstored* // iOS App Store
 DOMAIN-KEYWORD,fmfmobile
-DOMAIN,guzzoni.apple.com // Siri
 DOMAIN-SUFFIX,ibooks.info
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud.com
