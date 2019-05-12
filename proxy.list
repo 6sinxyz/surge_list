@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,fireside.fm
+DOMAIN-SUFFIX,forbes.com
 DOMAIN-SUFFIX,getpocket.com
 DOMAIN-KEYWORD,github
 DOMAIN-SUFFIX,github.com
@@ -57,6 +58,7 @@ DOMAIN-SUFFIX,pinterest.com
 DOMAIN-SUFFIX,pocketcasts.com
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,qz.com
+DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,readmoo.com
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.com
@@ -65,6 +67,7 @@ DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,squarespace.com
 DOMAIN-SUFFIX,stackoverflow.com
+DOMAIN-SUFFIX,stratechery.com
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,techcrunch.com
 DOMAIN-SUFFIX,telegra.ph
@@ -76,9 +79,11 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,vox.com
 DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,wikileaks.com
 DOMAIN-SUFFIX,wikipedia.com
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wordpress.com
+DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,xda-developers.com
 DOMAIN-SUFFIX,ycombinator.com
 DOMAIN-SUFFIX,youtu.be
