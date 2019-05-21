@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,ifttt.com
 DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,instapaper.com
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,macrumors.com
 DOMAIN-SUFFIX,matters.news
@@ -70,6 +71,7 @@ DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,squarespace.com
 DOMAIN-SUFFIX,stackoverflow.com
 DOMAIN-SUFFIX,stratechery.com
+DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,techcrunch.com
 DOMAIN-SUFFIX,telegra.ph
@@ -77,6 +79,7 @@ DOMAIN-SUFFIX,telegram.com
 DOMAIN-SUFFIX,testflight.apple.com
 DOMAIN-SUFFIX,theinitium.com
 DOMAIN-SUFFIX,tw
+DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,vox.com
