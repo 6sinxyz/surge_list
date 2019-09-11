@@ -49,12 +49,11 @@ DOMAIN-SUFFIX,tmall.com
 DOMAIN-SUFFIX,trello.com
 DOMAIN-SUFFIX,typekit.net
 DOMAIN-SUFFIX,urbandictionary.com
-DOMAIN-SUFFIX,vv.video.qq.com
 USER-AGENT,WeChat*
 DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,weibo.com
-DOMAIN-SUFFIX,weixin.qq.com
 DOMAIN-SUFFIX,xiami.com
 DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhihumg.com
