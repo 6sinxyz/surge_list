@@ -95,3 +95,4 @@ DOMAIN-SUFFIX,ycombinator.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,freepik.com
+USER-AGENT,ingress*
