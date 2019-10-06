@@ -6,6 +6,7 @@ USER-AGENT,ingress*
 DOMAIN-KEYWORD,adobe
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,niantic
 //domain
 DOMAIN-SUFFIX,9to5mac.com
 DOMAIN-SUFFIX,atp.fm
