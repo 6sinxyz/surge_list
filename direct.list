@@ -1,3 +1,11 @@
+USER-AGENT,WeChat*
+USER-AGENT,MicroMessenger*
+USER-AGENT,SPDBCCC*
+USER-AGENT,MApi*
+USER-AGENT,TickTick*
+USER-AGENT,canvaeditor*
+USER-AGENT,%E6%94%AF%E4%BB%98%E5%AE%9D*
+//direct site
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,12306.com
 DOMAIN-SUFFIX,163.com
@@ -24,11 +32,10 @@ DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,itslaw.com
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,juexiaotime.com
-USER-AGENT,MApi*
 DOMAIN-SUFFIX,meituan.com
 DOMAIN-SUFFIX,mgtv.com
 DOMAIN-SUFFIX,mi.com
-USER-AGENT,MicroMessenger*
+DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,mobike.com
 DOMAIN-SUFFIX,moke.com
 DOMAIN-SUFFIX,mubu.com
@@ -39,7 +46,6 @@ DOMAIN-SUFFIX,s3.amazonaws.com
 DOMAIN-SUFFIX,shimo.im
 DOMAIN-SUFFIX,qqurl.com
 DOMAIN-SUFFIX,sina.com
-USER-AGENT,SPDBCCC*
 DOMAIN-SUFFIX,spdbccc.com
 DOMAIN-SUFFIX,souhu.com
 DOMAIN-SUFFIX,sspai.com
@@ -49,7 +55,6 @@ DOMAIN-SUFFIX,tmall.com
 DOMAIN-SUFFIX,trello.com
 DOMAIN-SUFFIX,typekit.net
 DOMAIN-SUFFIX,urbandictionary.com
-USER-AGENT,WeChat*
 DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,xiami.com
