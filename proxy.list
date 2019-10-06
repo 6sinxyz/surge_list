@@ -6,7 +6,6 @@ USER-AGENT,ingress*
 DOMAIN-KEYWORD,adobe
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,github
-DOMAIN-KEYWORD,pornhub
 //domain
 DOMAIN-SUFFIX,9to5mac.com
 DOMAIN-SUFFIX,atp.fm
@@ -63,6 +62,7 @@ DOMAIN-SUFFIX,pingcong.rocks
 DOMAIN-SUFFIX,pinterest.com
 DOMAIN-SUFFIX,pocketcasts.com
 DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,qz.com
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,readmoo.com
