@@ -1,5 +1,5 @@
 USER-AGENT,Airtable*
-USER-AGENT,canvaeditor*
+USER-AGENT,Behance*
 USER-AGENT,HackerNews*
 USER-AGENT,ingress*
 //keyword
@@ -10,6 +10,7 @@ DOMAIN-KEYWORD,niantic
 //domain
 DOMAIN-SUFFIX,9to5mac.com
 DOMAIN-SUFFIX,atp.fm
+DOMAIN-SUFFIX,air-matters.com
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,airtable.com
@@ -64,6 +65,8 @@ DOMAIN-SUFFIX,pinterest.com
 DOMAIN-SUFFIX,pocketcasts.com
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,pinterest.com
+DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,qz.com
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,readmoo.com
