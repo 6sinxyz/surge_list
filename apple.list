@@ -1,8 +1,10 @@
 DOMAIN-SUFFIX,aiport.us
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,cdn-apple.com
-USER-AGENT,com.apple.appstored* // iOS App Store
+// iOS App Store
+USER-AGENT,com.apple.appstored* 
 DOMAIN-KEYWORD,fmfmobile
+//icloud&iTunes
 DOMAIN-SUFFIX,ibooks.info
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud.com
