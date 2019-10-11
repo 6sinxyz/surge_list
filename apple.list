@@ -4,7 +4,7 @@ DOMAIN-SUFFIX,cdn-apple.com
 // iOS App Store
 USER-AGENT,com.apple.appstored* 
 DOMAIN-KEYWORD,fmfmobile
-//icloud&iTunes
+//iCloud&iTunes
 DOMAIN-SUFFIX,ibooks.info
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud.com
