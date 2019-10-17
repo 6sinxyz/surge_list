@@ -1,10 +1,10 @@
+#
 USER-AGENT,canvaeditor*
 USER-AGENT,MApi*
 USER-AGENT,MicroMessenger%20Client
 USER-AGENT,SPDBCCC*
 USER-AGENT,TickTick*
-
-//tencent client
+#tencent client
 USER-AGENT,WeChat*
 DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,idqqimg.com
