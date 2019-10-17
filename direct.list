@@ -1,9 +1,19 @@
-USER-AGENT,WeChat*
-USER-AGENT,MicroMessenger*
 USER-AGENT,canvaeditor*
-USER-AGENT,SPDBCCC*
 USER-AGENT,MApi*
+USER-AGENT,MicroMessenger%20Client
+USER-AGENT,SPDBCCC*
 USER-AGENT,TickTick*
+
+//tencent client
+USER-AGENT,WeChat*
+DOMAIN-SUFFIX,gtimg.com
+DOMAIN-SUFFIX,idqqimg.com
+DOMAIN-SUFFIX,igamecj.com
+DOMAIN-SUFFIX,myapp.com
+DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,tencent-cloud.net
 
 //direct site
 DOMAIN-SUFFIX,10010.com
@@ -42,7 +52,6 @@ DOMAIN-SUFFIX,nssd.org
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,outlook.live.com
 DOMAIN-SUFFIX,qdaily.com
-DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFUX,amazonaws.com
 DOMAIN-SUFFIX,shimo.im
 DOMAIN-SUFFIX,qqurl.com
