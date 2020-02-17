@@ -1,0 +1,35 @@
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,apple.co
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,apps.apple.com
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,lookup-api.apple.com // Dictionary
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,itunes.com
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN,api.smoot.apple.com
+DOMAIN,captive.apple.com
+DOMAIN,configuration.apple.com
+DOMAIN,guzzoni.apple.com
+DOMAIN,smp-device-content.apple.com
+DOMAIN,xp.apple.com
+DOMAIN-SUFFIX,ess.apple.com
+DOMAIN-SUFFIX,push-apple.com.akadns.net
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN,aod.itunes.apple.com
+DOMAIN,mesu.apple.com
+DOMAIN,api.smoot.apple.cn
+DOMAIN,gs-loc.apple.com
+DOMAIN,mvod.itunes.apple.com
+DOMAIN,streamingaudio.itunes.apple.com
+DOMAIN-SUFFIX,lcdn-locator.apple.com
+DOMAIN-SUFFIX,lcdn-registration.apple.com
+DOMAIN-SUFFIX,ls.apple.com
+
+PROCESS-NAME,storedownloadd // Mac App Store
+PROCESS-NAME,trustd // Mac App Store
+USER-AGENT,AppStore*
+USER-AGENT,com.apple.appstored*
