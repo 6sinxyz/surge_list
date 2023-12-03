@@ -8,11 +8,8 @@ DOMAIN-SUFFIX,http://auth0.com
 DOMAIN-SUFFIX,raindrop.io //chatbot
 DOMAIN-SUFFIX,hubspot.com
 DOMAIN,api.iconify.design
-<<<<<<< HEAD
 DOMAIN-SUFFIX,91mjw.tv //91美剧网
-=======
-DOMAIN-SUFFIX,91mjw.tv 
->>>>>>> b
+
 DOMAIN,en.wikipedia.org
 DOMAIN,licdn.com
 DOMAIN,linkedin.cn
