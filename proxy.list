@@ -1,6 +1,18 @@
 # 需要代理的服务
 
 USER-AGENT,Behance*
+<<<<<<< HEAD
+=======
+OMAIN-SUFFIX,http://openai.com
+DOMAIN-SUFFIX,http://openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,http://identrust.com
+DOMAIN-SUFFIX,http://auth0.com
+
+DOMAIN,en.wikipedia.org
+DOMAIN,licdn.com
+DOMAIN,linkedin.cn
+DOMAIN,linkedin.com
+>>>>>>> b
 DOMAIN-SUFFIX,9to5mac.com
 DOMAIN-SUFFIX,atp.fm
 DOMAIN-SUFFIX,adobe.com
