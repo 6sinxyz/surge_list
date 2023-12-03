@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,http://openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,http://identrust.com
 DOMAIN-SUFFIX,http://auth0.com
 DOMAIN-SUFFIX,raindrop.io
+DOMAIN-SUFFIX,hubspot.com
+DOMAIN,api.iconify.design
 
 DOMAIN,en.wikipedia.org
 DOMAIN,licdn.com
