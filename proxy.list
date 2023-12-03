@@ -1,10 +1,6 @@
 # 需要代理的服务
 
 USER-AGENT,Behance*
-DOMAIN,en.wikipedia.org
-DOMAIN,licdn.com
-DOMAIN,linkedin.cn
-DOMAIN,linkedin.com
 DOMAIN-SUFFIX,9to5mac.com
 DOMAIN-SUFFIX,atp.fm
 DOMAIN-SUFFIX,adobe.com
